@@ -8,6 +8,7 @@
 
 [![](https://img.shields.io/badge/CVPR-2024-blue)](https://cvpr.thecvf.com/Conferences/2024)
 [![Paper](https://img.shields.io/badge/Paper-arxiv.2403.20126-red)](https://arxiv.org/abs/2403.20126)
+[![](https://img.shields.io/badge/YouTube-red)](https://youtu.be/L3qaH-mluiE?si=LrDmKazNYz2tBHp7)
 
 </div>
 
