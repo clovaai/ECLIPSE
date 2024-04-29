@@ -1,0 +1,3 @@
+_BASE_: maskformer2_R50_bs16_160k.yaml
+CONT:
+  ORDER: !!python/object/apply:eval ["[x for x in range(1, 151)]"]

@@ -1,0 +1,8 @@
+**/ckpt
+**/wandb
+**/results
+**/.ipynb_checkpoints/
+**/__pycache__/
+
+mask2former/modeling/pixel_decoder/ops/build
+detectron2_temp/
