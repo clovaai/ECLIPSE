@@ -41,20 +41,20 @@ You can see our core implementation from
 
 |   Scenario   |  Script   |    Step-0 Weight    |  Final Weight |
 | :----------------: | :----------------: | :------:  | :------:  |
-| ADE20K-Panoptic 100-5  | `bash script/ade_ps/100_5.sh` |  [step0](https://drive.google.com/file/d/1Y52T0j2iIjNfIN4wkS2_hpLgpLVsBhXG/view?usp=sharing) | [step10](https://drive.google.com/file/d/1TV5q6wrZBK0OvAoC0O4g4Pa3hWz661Yx/view?usp=sharing)|
-| ADE20K-Panoptic 100-10  | `bash script/ade_ps/100_10.sh` |  [step0](https://drive.google.com/file/d/1Y52T0j2iIjNfIN4wkS2_hpLgpLVsBhXG/view?usp=sharing) | [step5](https://drive.google.com/file/d/1A6o7v1KRjQAnbWuVUNroAFDhRB85kvRo/view?usp=sharing)|
-| ADE20K-Panoptic 100-50  | `bash script/ade_ps/100_50.sh` |  [step0](https://drive.google.com/file/d/1Y52T0j2iIjNfIN4wkS2_hpLgpLVsBhXG/view?usp=sharing) | [step1](https://drive.google.com/file/d/1RNClMz_QKeU_lh-SBUfmr4tPtHWJSr0Z/view?usp=sharing)|
+| ADE20K-Panoptic 100-5  | `bash script/ade_ps/100_5.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_100_step0.pth) | [step10](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_100_5_final.pth)|
+| ADE20K-Panoptic 100-10  | `bash script/ade_ps/100_10.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_100_step0.pth) | [step5](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_100_10_final.pth)|
+| ADE20K-Panoptic 100-50  | `bash script/ade_ps/100_50.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_100_step0.pth) | [step1](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_100_50_final.pth)|
 | | | | |
-| ADE20K-Panoptic 50-10  | `bash script/ade_ps/50_10.sh` |  [step0](https://drive.google.com/file/d/1XML3URHtM-YmOx0PdHfKu84UbiyfOg62/view?usp=sharing) | [step10](https://drive.google.com/file/d/1o5BW0AbLwMSpfsAvzz0QCfd5EUSaSi4v/view?usp=sharing)|
-| ADE20K-Panoptic 50-20  | `bash script/ade_ps/50_20.sh` |  [step0](https://drive.google.com/file/d/1XML3URHtM-YmOx0PdHfKu84UbiyfOg62/view?usp=sharing) | [step5](https://drive.google.com/file/d/1q0B2q8ckVHXN7_gPDOiN-z7YRfPxcMCR/view?usp=sharing)|
-| ADE20K-Panoptic 50-50  | `bash script/ade_ps/50_50.sh` |  [step0](https://drive.google.com/file/d/1XML3URHtM-YmOx0PdHfKu84UbiyfOg62/view?usp=sharing) | [step2](https://drive.google.com/file/d/1EhwX4Nfu912v-VcsDpGHbl7mcxRKX9J_/view?usp=sharing)|
+| ADE20K-Panoptic 50-10  | `bash script/ade_ps/50_10.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_50_step0.pth) | [step10](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_50_10_final.pth)|
+| ADE20K-Panoptic 50-20  | `bash script/ade_ps/50_20.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_50_step0.pth) | [step5](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_50_20_final.pth)|
+| ADE20K-Panoptic 50-50  | `bash script/ade_ps/50_50.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_50_step0.pth) | [step2](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ps_50_50_final.pth)|
 | | | | |
-| ADE20K-Semantic 100-5  | `bash script/ade_ss/100_5.sh` |  [step0](https://drive.google.com/file/d/1mES7SZCk8FxDUlGnEetF8mtbIV70CUCx/view?usp=sharing) | [step10](https://drive.google.com/file/d/1XxxojiGP7nVXcQfZDt5XX7XBezfb0f9n/view?usp=sharing)|
-| ADE20K-Semantic 100-10  | `bash script/ade_ss/100_10.sh` |  [step0](https://drive.google.com/file/d/1mES7SZCk8FxDUlGnEetF8mtbIV70CUCx/view?usp=sharing) | [step5](https://drive.google.com/file/d/1Bo0DzZL2KSbCL57ddp9k7fEu867pld3a/view?usp=sharing)|
-| ADE20K-Semantic 100-50  | `reproduce error` |  [step0](https://drive.google.com/file/d/1mES7SZCk8FxDUlGnEetF8mtbIV70CUCx/view?usp=sharing) | [step1](https://drive.google.com/file/d/1-vtK0OU6adTj2UvAw7iRI1PzcK4NKyth/view?usp=sharing)|
+| ADE20K-Semantic 100-5  | `bash script/ade_ss/100_5.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ss_100_step0.pth) | [step10](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ss_100_5_final.pth)|
+| ADE20K-Semantic 100-10  | `bash script/ade_ss/100_10.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ss_100_step0.pth) | [step5](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ss_100_10_final.pth)|
+| ADE20K-Semantic 100-50  | `reproduce error` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ss_100_step0.pth) | [step1](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/ade_ss_100_50_final.pth)|
 | | | | |
-| COCO-Panoptic 83-5  | `bash script/coco_ps/83_5.sh` |  [step0](https://drive.google.com/file/d/1DQ_ut5c3MkVLQfxDYNHxiG4w3t8GCKML/view?usp=sharing) | [step10](https://drive.google.com/file/d/1FcYpwC24Jwk2JPgYiCQE86PydvYGMDE0/view?usp=sharing)|
-| COCO-Panoptic 83-10  | `bash script/coco_ps/83_10.sh` |  [step0](https://drive.google.com/file/d/1DQ_ut5c3MkVLQfxDYNHxiG4w3t8GCKML/view?usp=sharing) | [step5](https://drive.google.com/file/d/19LyrNZy4bOmTc7LqttIXtxn7SpR2qkrz/view?usp=sharing)|
+| COCO-Panoptic 83-5  | `bash script/coco_ps/83_5.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/coco_ps_83_step0.pth) | [step10](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/coco_ps_83_5_final.pth)|
+| COCO-Panoptic 83-10  | `bash script/coco_ps/83_10.sh` |  [step0](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/coco_ps_83_step0.pth) | [step5](https://github.com/clovaai/ECLIPSE/releases/download/ckpt/coco_ps_83_10_final.pth)|
 
 
 <div align="center">
