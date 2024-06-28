@@ -73,11 +73,13 @@ You can see our core implementation from
 
 ## How to Cite
 ```
-@article{kim2024eclipse,
-  title={ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning},
-  author={Kim, Beomyoung and Yu, Joonsang and Hwang, Sung Ju},
-  journal={arXiv preprint arXiv:2403.20126},
-  year={2024}
+@InProceedings{Kim_2024_CVPR,
+    author    = {Kim, Beomyoung and Yu, Joonsang and Hwang, Sung Ju},
+    title     = {ECLIPSE: Efficient Continual Learning in Panoptic Segmentation with Visual Prompt Tuning},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2024},
+    pages     = {3346-3356}
 }
 ```
 
